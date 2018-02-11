@@ -1,7 +1,7 @@
 #--*--coding:UTF-8--*--
+#Yakumai
 import socket
 import os
-import time
 host=""
 port=1335
 
