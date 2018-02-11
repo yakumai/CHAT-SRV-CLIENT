@@ -1,5 +1,5 @@
 #--*--coding:UTF-8--*--
-
+#yakumai
 import socket
 import time
 host="192.168.1.16"
